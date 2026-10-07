@@ -6,8 +6,8 @@ the read-only command-line client for [HodeiShield](https://hodeishield.com), on
 ## Install
 
 ```powershell
-scoop bucket add hodeitek https://github.com/Hodeitek/scoop-bucket
-scoop install hodeitek/hodeishield
+scoop bucket add hodeishield https://github.com/Hodeitek/scoop-hodeishield
+scoop install hodeishield
 ```
 
 The manifest is published from the first CLI release that includes it; until then, use the `.zip`
