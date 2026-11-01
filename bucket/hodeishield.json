@@ -1,16 +1,16 @@
 {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "description": "Read-only command-line client for HodeiShield",
     "homepage": "https://hodeishield.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Hodeitek/hodeishield-cli/releases/download/v0.6.1/hodeishield-0.6.1-x86_64-pc-windows-msvc.zip",
-            "hash": "e35f12ff1b3f48cf87889d97170ec03973343324c8200aba753dd74f37f976a4"
+            "url": "https://github.com/Hodeitek/hodeishield-cli/releases/download/v0.7.0/hodeishield-0.7.0-x86_64-pc-windows-msvc.zip",
+            "hash": "28621906d20c69c0d6135ee5a228eecb5d360456bc22ee86445c14f61f2855af"
         },
         "arm64": {
-            "url": "https://github.com/Hodeitek/hodeishield-cli/releases/download/v0.6.1/hodeishield-0.6.1-aarch64-pc-windows-msvc.zip",
-            "hash": "3f412b89b6f9dc7689022cf75125c29d8244379c19212b0a5ecdd25f878df35d"
+            "url": "https://github.com/Hodeitek/hodeishield-cli/releases/download/v0.7.0/hodeishield-0.7.0-aarch64-pc-windows-msvc.zip",
+            "hash": "064b299c47c859c2346ebe5e91fecba583146f1cdf439eab09d2c2fbfb338965"
         }
     },
     "bin": "hodeishield.exe",
